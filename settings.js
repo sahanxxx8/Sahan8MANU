@@ -33,7 +33,7 @@
 //   * Created By Github: manulofficial7.
 //   * Credit To Manul Official
 //   * © 2024 MANU-MD-V7.
-// ⛥┌┤
+// ⛥┌┤.
 // */
 
 const fs = require('fs');
